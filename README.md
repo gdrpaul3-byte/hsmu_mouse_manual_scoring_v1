@@ -4,6 +4,22 @@
 
 ---
 
+## 실행 화면
+
+| 일시정지 상태 (Rearing 선택) | 재생 중 (Grooming 기록 중) |
+|:---:|:---:|
+| ![paused](screenshot_paused.png) | ![scoring](screenshot_scoring.png) |
+
+## 출력 예시
+
+**Ethogram 타임라인**
+![ethogram](assets/ethogram_example.png)
+
+**행동 분포 요약 (Bar Chart)**
+![barchart](assets/barchart_example.png)
+
+---
+
 ## 구성 파일
 
 ```
