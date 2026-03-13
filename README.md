@@ -39,7 +39,7 @@ python scoring_tool.py
 ```
 
 - 실행 후 이름과 학번을 입력합니다.
-- `mouse_video.mp4`가 **같은 폴더**에 있어야 합니다.
+- `mouse_video.mp4`가 **같은 폴더**에 있어야 합니다. → [📥 영상 다운로드 (Google Drive)](https://drive.google.com/file/d/1fPA_1c2SfhtffRs_SYR9D_5IbW6rOzA_/view?usp=sharing)
 - 키보드 단축키:
 
 | 키 | 기능 |
@@ -110,5 +110,5 @@ Frame,Time (sec),Event,Behavior
 
 ## 주의사항
 
-- `mouse_video.mp4`는 용량 문제로 Git에서 추적하지 않습니다. 별도로 공유합니다.
+- `mouse_video.mp4`는 용량 문제로 Git에서 추적하지 않습니다. [Google Drive 링크](https://drive.google.com/file/d/1fPA_1c2SfhtffRs_SYR9D_5IbW6rOzA_/view?usp=sharing)에서 다운로드 후 이 폴더에 넣어주세요.
 - `student_data/` 폴더는 개인정보 보호를 위해 Git에서 제외됩니다.

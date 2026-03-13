@@ -8,6 +8,7 @@ student_data/
 
 # 스코어링 결과 출력물 (자동 생성됨)
 scoring_log_*.csv
+!sample_data/
 plot_scoring_log_*.png
 bar_plots_scoring_log_*.png
 *_행동스코어링결과.docx
